@@ -52,4 +52,3 @@ Through data cleaning, statistical summaries, and visualizations, this project i
 ## 🔥 Bonus Visualizations
 - Heatmap of survival rates by **Gender & Class**.
 - Correlation heatmap summarizing feature relationships.
-t clone https://github.com/your-username/titanic-eda.git
